@@ -1,0 +1,17 @@
+# Java / Maven
+target/
+*.class
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+
+# Entorno y secretos
+.env
+*.env.local
+
+# IDE y sistema
+.idea/
+.DS_Store
+EOF
